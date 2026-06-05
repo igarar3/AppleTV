@@ -630,7 +630,7 @@ http://192.168.1.191:6880/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="TENNIS", TENNIS CHANNEL ecbf --> NEW LOOP
 http://192.168.1.191:6880/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN BALONCESTO FHD fd7f --> NEW ERA VI
-http://192.168.1.191:6880/ace/getstream?id=a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
+http://192.168.1.191:6880/ace/getstream?id=4b91125bd752462f1eca2d8d52f5f40fa761aa0
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN BALONCESTO 2 FHD fb8d --> NEW ERA
 http://192.168.1.191:6880/ace/getstream?id=965b249321adbf3a1459f94c17f624022889fb8d
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN BALONCESTO 3 FHD 2cae --> NEW ERA
